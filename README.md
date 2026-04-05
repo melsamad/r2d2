@@ -31,6 +31,8 @@ You could obviously turn this schematic into a PCB, but I currently can't do tha
 ## 3D Model 
 You can check out the "3d Model" file for screenshots of the design or go to this link: https://cad.onshape.com/documents/41ff22a7ba16d7ff0c6695ed/w/d662b2744b51235da2560300/e/657d65253b670dbc1a6ec125?renderMode=0&uiState=69d2b66812f1d4591a9e5eba
 
+All electronic components modeled are in true dimensions.
+
 
 ## BOM (Bill of Materials)
 
