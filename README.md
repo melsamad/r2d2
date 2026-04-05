@@ -29,7 +29,10 @@ You could obviously turn this schematic into a PCB, but I currently can't do tha
 <img width="1250" height="899" alt="wiring diagram" src="https://github.com/user-attachments/assets/dbfaf57a-b9c8-4cbb-8b36-2dae2e6a948a" />
 
 ## 3D Model 
-You can check out the "3d Model" file for screenshots of the design or go to this link: https://cad.onshape.com/documents/41ff22a7ba16d7ff0c6695ed/w/d662b2744b51235da2560300/e/657d65253b670dbc1a6ec125?renderMode=0&uiState=69d2b66812f1d4591a9e5eba
+You can check out the "3d Model" file for all screenshots of the design or go to this link: https://cad.onshape.com/documents/41ff22a7ba16d7ff0c6695ed/w/d662b2744b51235da2560300/e/657d65253b670dbc1a6ec125?renderMode=0&uiState=69d2b66812f1d4591a9e5eba
+
+<img width="771" height="734" alt="3d model" src="https://github.com/user-attachments/assets/1c087ac8-8667-429e-bd1e-8cd63f82dacf" />
+
 
 All electronic components modeled are in true dimensions.
 
